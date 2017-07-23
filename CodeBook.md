@@ -14,7 +14,7 @@ CodeBook for Final Assignment Getting and Cleaning Data Course
 
   Step 3 creates a complete data frame for test data
 
-  Step 4 joins teste and training data frames in to one data frame called dfall
+  Step 4 joins test and training data frames in to one data frame called dfall
 
   Step 5 extracts and stores the means and standard deviation for each variable from dfall
 
@@ -36,6 +36,6 @@ CodeBook for Final Assignment Getting and Cleaning Data Course
 
 4. Original variable names are preserved throughout the assignment, with the exception of subjects and activity which are given the names "Subject" and "Activity"" respectively.
 
-5. Original data downloaded from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+5. Original data and code book downloaded from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 
