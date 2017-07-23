@@ -4,7 +4,7 @@
 #######################################################################
 
 # Note: to run this script 
-  # (i)  the packages dplyr and reshape2 must be insytalled and loaded
+  # (i)  the packages dplyr and reshape2 must be installed and loaded
   # (ii) original datafiles must be on working directory
 
 
