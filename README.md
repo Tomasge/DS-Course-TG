@@ -7,4 +7,5 @@ Readme for REPO Course 3 Assignment
 2. The files in the repository are:
       - README.md : This file
       - run-analysis.R : The code that answers the assignment
-      - CodeBook.md : An explanation of how the code works and the variable names used.
+      - CodeBook.md : An explanation of how the code works and the variable names used
+      - dftidy.txt : Outpit data
